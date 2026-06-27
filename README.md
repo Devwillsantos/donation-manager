@@ -11,7 +11,7 @@ O objetivo principal da aplicação é automatizar esse processo, oferecendo uma
 Aqui você pode visualizar a interface do sistema (substitua os caminhos abaixo pelas suas imagens):
 
 ![Tela Principal - Painel de Doações](cestar1.png)
-![Formulário de Cadastro](cestar2.png)
+![Formulário de Cadastro](cesta2.png)
 ![Painel de Relatórios](cestar3.png)
 
 ---
