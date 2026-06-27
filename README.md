@@ -1,8 +1,8 @@
 # Sistema de Gerenciamento de Doações 🎁
 
-Um sistema web simples, intuitivo e eficiente desenvolvido para organizar e gerenciar dados e datas de doações para projetos beneficentes. 
+Este sistema web foi desenvolvido sob medida para resolver um problema real de organização do *Projeto Cestar*, uma iniciativa beneficente que enfrentava dificuldades no controle e gerenciamento manual dos dados de suas arrecadações e doações. 
 
-O objetivo principal deste projeto é automatizar o controle de arrecadações, facilitando a visualização de quem doou, o que foi doado e quando a ação aconteceu.
+O objetivo principal da aplicação é automatizar esse processo, oferecendo uma solução simples e eficiente para registrar quem doou, o que foi doado e quando a ação aconteceu, facilitando a gestão estratégica das ações sociais do projeto.
 
 ---
 
@@ -10,8 +10,9 @@ O objetivo principal deste projeto é automatizar o controle de arrecadações, 
 
 Aqui você pode visualizar a interface do sistema (substitua os caminhos abaixo pelas suas imagens):
 
-![Tela Principal - Painel de Doações](caminho-para-sua-imagem1.png)
-![Formulário de Cadastro](caminho-para-sua-imagem2.png)
+![Tela Principal - Painel de Doações](cestar1.png)
+![Formulário de Cadastro](cestar2.png)
+![Painel de Relatórios](cestar3.png)
 
 ---
 
